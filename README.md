@@ -41,14 +41,6 @@ The main objectives of this EDA are:
 - Matplotlib & Seaborn (Data Visualization)
 - Jupyter Notebook (for analysis and reporting)
 
-## 📁 Project Structure
-covid19-eda/
-│
-├── COVID-19 Dataset.xlsx # Raw dataset from WHO
-├── Covid 19 EDA.ipynb # Jupyter Notebook with full EDA
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
 ## 🔍 EDA Highlights
 The analysis includes:  
 - ✅ Data Cleaning & Preprocessing (handling missing values, formatting, standardization)  
